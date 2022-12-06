@@ -37,7 +37,11 @@
 <img src="images/icons/Bootsrap.png"/>
 <img src="images/icons/css.png"/>
 <img src="images/icons/HTML.png"/>
-</p><br/>
+</p>
+<p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorwartalukder&show_icons=true&locale=en&layout=compact" alt="sorwartalukder" />
+</p>
+<br/>
 
 
 

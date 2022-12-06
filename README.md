@@ -1,7 +1,7 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
 <!-- banner -->
-![I am a Junior Front-end developer. ](https://github.com/sorwartalukder/sorwartalukder/blob/main/images/Sorwar%20Taluker.png)
+<img src='images/Sorwar-Taluker.png'>
 
 ## :mailbox: Reach me out
 

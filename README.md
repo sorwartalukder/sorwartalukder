@@ -7,7 +7,21 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/sorwar-talukder/)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/md.sorowarr)[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](https://twitter.com/sorwar_talukder)
+<p align="center">
+    <!-- linkedIN -->
+    <a href="https://www.linkedin.com/in/sorwar-talukder/" target="blank">
+    <img src='images/icons/Linkedin.png'>
+    </a>
+    <!-- facebook -->
+    <a href="https://www.facebook.com/md.sorowarr" target="blank">
+    <img src='images/icons/Facebook.png'>
+    </a>
+    <!-- twitter -->
+    <a href="https://twitter.com/sorwar_talukder" target="blank">
+    <img src='images/icons/Twitter.png'>
+    </a>
+</p>
+
 
 <br />
 

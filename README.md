@@ -13,7 +13,7 @@
     <img src='images/icons/Linkedin.png'>
     </a>
     <!-- facebook -->
-    <a target="_blank" href="https://www.facebook.com/md.sorowarr">
+    <a target="_blank" href="https://www.facebook.com/sorwartalukderr">
     <img src='images/icons/Facebook.png'>
     </a>
     <!-- twitter -->

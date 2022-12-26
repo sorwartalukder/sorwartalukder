@@ -116,6 +116,8 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-14.jpg"/>
 <!-- 15 -->
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-15.jpg"/>
+<!-- 16 -->
+<img src="https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/300567381_1682511055455575_4313330158762364506_n.jpg?stp=c34.0.206.206a_dst-jpg_p206x206&_nc_cat=104&ccb=1-7&_nc_sid=da31f3&_nc_eui2=AeFeSy_X0AdCC6ofxY-dJ0Kq8IG-6a0Nt17wgb7prQ23XknA9rr_P77lU0qMI14lxcHndmy1TC4a_o9kak6CJZEa&_nc_ohc=EU1cRYhlQbAAX_6uEWv&_nc_ht=scontent.fdac14-1.fna&oh=00_AfDFMaylD1SlRHWSEJC1yzztkqfrh2DWRxsHbkwDm_ivPA&oe=63AE0B7E"/>
 </p>
 
 <img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">

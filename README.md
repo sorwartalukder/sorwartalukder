@@ -39,7 +39,7 @@
 <img src="images/icons/HTML.png"/>
 </p>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sorwartalukder&show_icons=true&locale=en&layout=compact" alt="sorwartalukder" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorwartalukder&theme=blue-green" alt="sorwartalukder" />
 </p>
 <br/>
 
@@ -122,4 +122,4 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 
 <img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">
 
-<p align="center"> Last update: Dec 26, 2022</p>
+<p align="center"> Last update: Feb 03, 2023</p>

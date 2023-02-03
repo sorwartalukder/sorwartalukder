@@ -39,7 +39,7 @@
 <img src="images/icons/HTML.png"/>
 </p>
 <p align='center'>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorwartalukder&theme=blue-green" alt="sorwartalukder" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorwartalukder&theme=tokyonight" alt="sorwartalukder" />
 </p>
 <br/>
 

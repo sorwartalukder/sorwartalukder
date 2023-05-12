@@ -1,5 +1,8 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Developer;Junior+Software+Engineer;Always+learning+new+things">
+</p>
 <!-- banner -->
 <img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">
 

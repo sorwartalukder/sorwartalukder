@@ -1,7 +1,7 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
 <!-- banner -->
-<img src='images/Sorwar-Taluker.png'>
+<img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">
 
 ## :mailbox: Reach me out
 
@@ -120,6 +120,6 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-11.jpg"/>
 </p>
 
-<img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">
+
 
 <p align="center"> Last update: Feb 03, 2023</p>

@@ -6,7 +6,7 @@
 <!-- banner -->
 <img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">
 
-## :mailbox: Reach me out
+##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Reach me out
 
 <br />
 
@@ -58,7 +58,7 @@
 </p>
 
 <!-- about -->
-<h1>About Me</h1>
+<h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me</h1>
 <p>MERN Stack Developer || Front-end web developer React.js based
 I am Experienced with React.js, JavaScript, Express.js and MongoDB
 <br />

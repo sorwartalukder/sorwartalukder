@@ -1,15 +1,16 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Developer;Junior+Software+Engineer;Always+learning+new+things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Developer;Junior+Software+Engineer;Software+Developer;Always+learning+new+things">
 </p>
+
 <!-- banner -->
 <img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">
 
+
+<!-- reach me out -->
 ##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Reach me out
-
 <br />
-
 <p align="center">
     <!-- linkedIN -->
     <a target="_blank" href="https://www.linkedin.com/in/sorwar-talukder/">
@@ -24,9 +25,8 @@
     <img src='images/icons/Twitter.png'>
     </a>
 </p>
-
-
 <br />
+
 
 <!-- skills -->
 ## :computer: Technologies that I know

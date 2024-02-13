@@ -1,15 +1,16 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;MERN+Stack+Developer;Junior+Software+Engineer;Software+Developer;Always+learning+new+things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Back-End Developer;Software+Engineer;Software+Developer;Full+Stack+Developer;Always+learning+new+things">
 </p>
 
 <!-- banner -->
-<img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover.jpeg' alt="Sorwar Talukder cover photo">
-
+<img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover-v2.png' alt="Sorwar Talukder cover photo">
 
 <!-- reach me out -->
-##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Reach me out
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Reach me out
+
 <br />
 <p align="center">
     <!-- linkedIN -->
@@ -17,7 +18,7 @@
     <img src='images/icons/Linkedin.png'>
     </a>
     <!-- facebook -->
-    <a target="_blank" href="https://www.facebook.com/sorwartalukderr">
+    <a target="_blank" href="https://www.facebook.com/sorwartalukder.programmer">
     <img src='images/icons/Facebook.png'>
     </a>
     <!-- twitter -->
@@ -27,9 +28,10 @@
 </p>
 <br />
 
-
 <!-- skills -->
+
 ## :computer: Technologies that I know
+
 <br>
 <p align="center">
 <img src="images/icons/react.png"/>
@@ -45,8 +47,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorwartalukder&theme=tokyonight" alt="sorwartalukder" />
 </p>
 <br/>
-
-
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -122,7 +122,5 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 <!-- 16 -->
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-11.jpg"/>
 </p>
-
-
 
 <p align="center"> Last update: Feb 03, 2023</p>

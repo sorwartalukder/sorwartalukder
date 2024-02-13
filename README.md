@@ -94,7 +94,7 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 <br />
 
 <!-- developer life Style -->
-<h1>My life Style</h1>
+<h1>life Style</h1>
 <p align="center">
 <!-- 1 -->
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-1.jpg"/>

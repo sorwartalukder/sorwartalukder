@@ -1,3 +1,9 @@
+<div align="right">
+<a  href="https://drive.google.com/file/d/1_P_F6B3k6TGiXZJTBDMcrGuK4G_xPKko/view?usp=share_link">
+  <img src="images/Download_Resume.png" alt="developer resume" width="180" height="60" style=" border-radius: 10px;"/>
+</a>
+</div>
+
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
 <p align="center">
@@ -34,14 +40,13 @@
 
 <br>
 <p align="center">
-<img src="images/icons/react.png"/>
-<img src="images/icons/JavaScript.png"/>
-<img src="images/icons/express.png"/>
-<img src="images/icons/node.png"/>
-<img src="images/icons/tailwind.png"/>
-<img src="images/icons/Bootsrap.png"/>
-<img src="images/icons/css.png"/>
-<img src="images/icons/HTML.png"/>
+<img src="images/icons/react.png" alt="ReactJS logo" width="70" height="70" style=" border-radius: 50%;"/>
+<img src="images/icons/JavaScript.png" alt="JavaScript logo" width="70" height="70" style=" border-radius: 50%;"/>
+<img src="images/icons/express.png" alt="ExpressJS logo" width="70" height="70" style=" border-radius: 50%;"/>
+<img src="images/icons/node.png" alt="NodeJS logo" width="70" height="70" style=" border-radius: 50%;"/>
+<img src="images/icons/laravel.jpg" alt="Laravel logo" width="70" height="70" style=" border-radius: 50%;"/>
+<img src="images/icons/mySQL.png" alt="NodeJS logo" width="70" height="70" style=" border-radius: 50%;"/>
+<img src="images/icons/mongoDB.png" alt="NodeJS logo" width="70" height="70" style=" border-radius: 50%;"/>
 </p>
 <p align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sorwartalukder&theme=tokyonight" alt="sorwartalukder" />
@@ -59,17 +64,19 @@
 
 <!-- about -->
 <h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me</h1>
-<p>MERN Stack Developer || Front-end web developer React.js based
-I am Experienced with React.js, JavaScript, Express.js and MongoDB
+<p>Software Engineer || Full stack developer || Backend developer
+<br />
+I am Experienced with JavaScript, NextJS, NodeJS, ExpressJS, Mongoose, MongoDB, Laravel, MySql,
+ReactJS,Redux, TypeScript.
 <br />
 <br />
 I am a programmer and I am happy with this job. Because I like technology . The use of technology is increasing in the world. I want to make technology easy to reach people.
 <br />
 <br />
-I am expert with JavaScript, React.js, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, HTML, Express.js, Firebase, MongoDB and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form,JWT, Context API etc).
+I am expert with React.js, JavaScript, Express.js , MongoDB, Laravel, MySql, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, HTML, Firebase and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form,JWT, Context API etc).
 <br />
 <br />
-I have worked on many of my projects. Every project is different and works Front-End, Backend and design done by me. I love productive work and try to concentrate as long as I work.
+I have 1 year of experience as a Laravel React developer. I also have a good knowledge of operating systems, networking systems and browser renders web pages. I am quick at learning new technologies and can follow instructions and work well with a team. 
 <br />
 <br />
 I am freedom loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.

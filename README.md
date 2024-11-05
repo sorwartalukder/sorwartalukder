@@ -94,40 +94,43 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 <br />
 
 <!-- developer life Style -->
+
+
+<!-- 
 <h1>life Style</h1>
 <p align="center">
-<!-- 1 -->
+1
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-1.jpg"/>
-<!-- 2 -->
+2
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-2.jpg"/>
-<!-- 3 -->
+3
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-3.jpg"/>
-<!-- 4 -->
+4
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-4.jpg"/>
-<!-- 5 -->
+5
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-5.jpg"/>
-<!-- 6 -->
+6
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-6.jpg"/>
-<!-- 7 -->
+7
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-7.jpg"/>
-<!-- 8 -->
+8
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-8.jpg"/>
-<!-- 9 -->
+9
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-9.jpg"/>
-<!-- 10 -->
+10
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-10.jpg"/>
-<!-- 11 -->
+11
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-11.jpg"/>
-<!-- 12 -->
+12
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-12.jpg"/>
-<!-- 13 -->
+13
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-13.jpg"/>
-<!-- 14 -->
+14
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-14.jpg"/>
-<!-- 15 -->
+15
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-15.jpg"/>
-<!-- 16 -->
+16
 <img src="https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/life-style/sorwar-talukder-11.jpg"/>
-</p>
+</p> -->
 
 <p align="center"> Last update: Feb 03, 2023</p>

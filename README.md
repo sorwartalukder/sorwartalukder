@@ -20,15 +20,15 @@
 <br />
 <p align="center">
     <!-- linkedIN -->
-    <a target="_blank" href="https://www.linkedin.com/in/sorwar-talukder/">
+    <a href="https://www.linkedin.com/in/sorwar-talukder/">
     <img src='images/icons/Linkedin.png'>
     </a>
     <!-- facebook -->
-    <a target="_blank" href="https://www.facebook.com/sorwartalukder.programmer">
+    <a href="https://www.facebook.com/eng.sorwartalukder">
     <img src='images/icons/Facebook.png'>
     </a>
     <!-- twitter -->
-    <a target="_blank" href="https://twitter.com/sorwar_talukder">
+    <a href="https://twitter.com/sorwar_talukder">
     <img src='images/icons/Twitter.png'>
     </a>
 </p>

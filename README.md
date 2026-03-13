@@ -11,7 +11,7 @@
 </p>
 
 <!-- banner -->
-<img src='https://github.com/sorwartalukder/sorwar-portfolio/blob/main/src/assets/Images/sorwar-talukder-cover-v2.png' alt="Sorwar Talukder cover photo">
+<img src='images/Sorwar Talukder.png' alt="Sorwar Talukder cover photo">
 
 <!-- reach me out -->
 
@@ -91,8 +91,7 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 
 <!-- developer life Style -->
 
-
-<!-- 
+<!--
 <h1>life Style</h1>
 <p align="center">
 1

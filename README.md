@@ -66,17 +66,13 @@
 <h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me</h1>
 <p>Software Engineer || Full stack developer || Backend developer
 <br />
-I am Experienced with JavaScript, NextJS, NodeJS, ExpressJS, Mongoose, MongoDB, Laravel, MySql,
-ReactJS,Redux, TypeScript.
+I am a programmer who truly enjoys what I do. Technology has always inspired me, and that is why I chose programming as my career. As technology continues to grow and shape the world, I believe it should be easy for everyone to access and benefit from it.
 <br />
 <br />
-I am a programmer and I am happy with this job. Because I like technology . The use of technology is increasing in the world. I want to make technology easy to reach people.
+My goal as a developer is to build solutions that make technology more useful and accessible to people. I enjoy learning new tools and improving my skills so I can create better and more meaningful software.
 <br />
 <br />
-I am expert with React.js, JavaScript, Express.js , MongoDB, Laravel, MySql, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, HTML, Firebase and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form,JWT, Context API etc).
-<br />
-<br />
-I have 1 year of experience as a Laravel React developer. I also have a good knowledge of operating systems, networking systems and browser renders web pages. I am quick at learning new technologies and can follow instructions and work well with a team. 
+I am passionate about solving problems, building products, and continuously growing as a developer. Every day I work to improve my knowledge and skills, because I believe the only difference between those who change the world and others is dedication and continuous learning.
 <br />
 <br />
 I am freedom loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
